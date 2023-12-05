@@ -5,6 +5,7 @@ int main()
 {	
 	PID* pid = PID_Init();
 	int i, k;
+	heiheihie
 	printf("请输入循环次数:\n");
 	scanf("%d", &i);
 	printf("选择位置式PID输入1，选择增量式PID输入2:\n");
